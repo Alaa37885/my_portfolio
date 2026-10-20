@@ -8,13 +8,13 @@ A responsive personal portfolio built with plain HTML, CSS and JavaScript.
 - `script.js` — mobile menu and active navigation
 
 ## Before publishing
-Replace:
+Keep these links updated with your live profile URLs if you want to point to your personal accounts:
 - `whalaa3737@gmail.com`
-- LinkedIn `#`
-- Mostaql `#`
+- LinkedIn profile
+- Mostaql profile
 - Any project links you want to make clickable
 
-The GitHub link is already set to `https://github.com/Alaa37885`.
+The current GitHub link is set to `https://github.com/Alaa37885`.
 
 ## Run locally
 Open `index.html` in a browser, or use VS Code Live Server.
